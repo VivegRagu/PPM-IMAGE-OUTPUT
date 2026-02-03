@@ -11,5 +11,3 @@ A C++ implementation of PPM (Portable Pixmap Format) image generation with Objec
 3. **Circle Drawing**: Draw circles with specified radius, position, and color
 4. **Pixel Manipulation**: Direct RGB value control for each pixel
 
-5. 
-
