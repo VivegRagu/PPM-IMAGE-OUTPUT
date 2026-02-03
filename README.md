@@ -1,4 +1,4 @@
-# PPM-IMAGE-OUTPUT
+# PPM-IMAGE-OUTPUT!!(download outputppm file and generate in ppm viewr to see image)
  "C++ PPM Image Generator with gradient and circle drawing"
 # PPM Image Generator - C++
 
@@ -10,4 +10,6 @@ A C++ implementation of PPM (Portable Pixmap Format) image generation with Objec
 2. **Gradient Drawing**: Generate color gradients with customizable dimensions
 3. **Circle Drawing**: Draw circles with specified radius, position, and color
 4. **Pixel Manipulation**: Direct RGB value control for each pixel
+
+5. 
 
